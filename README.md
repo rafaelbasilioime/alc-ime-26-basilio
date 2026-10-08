@@ -6,7 +6,7 @@ Codigos em Python pedidos na disciplina. O nome de cada arquivo diz de onde veio
 
 | arquivo | onde foi pedido | o que faz |
 |---|---|---|
-| `alc-p1-Q5-basilio.py` | P1, 5a questao (para casa) | `resolve_lu`: decomposicao A = LU sem pivoteamento, substituicao progressiva e regressiva |
+| `Questao 5 - P1 ALC 2026.2/alc-p1-Q5-basilio.py` + `alc-p1-Q5-basilio.mp4` (video, 1min27) | P1, 5a questao (para casa) | `resolve_lu`: decomposicao A = LU sem pivoteamento, substituicao progressiva e regressiva |
 | `lista1_q4_substituicao_regressiva.py` | Lista I, 4a questao (e Parte IV, slide 11) | resolve Ux = b com U triangular superior; exception se houver zero na diagonal |
 | `lista1_q5_robo_planar_dois_elos.py` | Lista I, 5a questao | posicao do efetuador final (L1 = 20 cm, L2 = 15 cm) e a matriz de transformacao 3x3 |
 | `lista2_q4_ford_7_32_posto_e_norma_de_uvT.py` | Lista II, 4a questao ([FORD] 7.32) | A = u v^T tem posto 1 e norma 2 igual a norma(u) * norma(v) |
